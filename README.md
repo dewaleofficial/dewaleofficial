@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dewaleofficial
+- 👋 Hi, I’m @dewale
 - 👀 I’m interested in Analytics Engineering
 - 🌱 I’m currently creating data products to solve business problems
 - 💞️ I’m looking to collaborate on Analytical Engineering Projects
