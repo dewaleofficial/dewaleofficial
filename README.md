@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dewale
+- 👋 Hi, I’m @AbdulFatai
 - 👀 I’m interested in Data Analytics and Analytics Engineering
 - 🌱 I’m currently creating data products to solve business problems
 - 💞️ I’m looking to collaborate on Data Analytics and Engineering Projects to Drive Business Growth
