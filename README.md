@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dewale
-- 👀 I’m interested in Analytics Engineering
+- 👀 I’m interested in Data Analytics and Analytics Engineering
 - 🌱 I’m currently creating data products to solve business problems
-- 💞️ I’m looking to collaborate on Analytical Engineering Projects
-- 📫 How to reach me dewaleofficial@gmail.com / qabdulfatai@gmail.com
+- 💞️ I’m looking to collaborate on Data Analytics and Engineering Projects to Drive Business Growth
+- 📫 How to reach me qabdulfatai@gmail.com / dewaleofficial@gmail.com
 
 <!---
 dewaleofficial/dewaleofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
